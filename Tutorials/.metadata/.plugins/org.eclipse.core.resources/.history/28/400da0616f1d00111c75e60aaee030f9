@@ -1,0 +1,56 @@
+package basic;
+
+import javax.swing.JOptionPane;
+
+public class Menu {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		String a=JOptionPane.showInputDialog("Here's a Menu for Lunch\n" +
+				"1) Bread \n" +
+				"2) Water\n" +
+				"3) Potatoes\n" +
+				"4) Rice\n" +
+				"5) Carrots\n\n" +
+				"Please Select Your Choice (1-5). \n If you do not choose correctly you will get nothing to eat!:");
+		
+		int choice=Integer.parseInt(a);
+		String selection="";
+		
+		//Implement a way to print out your selection using if/else statements
+		//--------------------------------------------------------------------
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		//--------------------------------------------------------------------
+		
+		
+		
+		
+		// Implement using switch/case statements
+		//--------------------------------------------------------------------
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		//--------------------------------------------------------------------
+		System.out.println("Your selection(switch case): "+selection);
+		
+
+	}
+
+}

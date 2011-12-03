@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/erichsiao/Desktop/BasicTutorials/.metadata/.plugins/org.eclipse.jdt.core
+943098940.index
+1316055787.index
+2148506532.index
